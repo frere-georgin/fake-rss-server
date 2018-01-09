@@ -17,3 +17,10 @@ Ok, the serveur is launched, now you can
 - Get a json flux at localhost:5002/json
 
 
+### To do
+
+- Make some tests
+- Add a html page with a head meta link for rss discovery
+
+- Optional : Make a general navigation, some new fake pages and their associated rss 
+( This is for deep discovery tests )
