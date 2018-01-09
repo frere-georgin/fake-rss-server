@@ -4,7 +4,7 @@ const jsonfile = require('jsonfile');
 const moment = require('moment');
 const cors = require('cors');
 
-const fakeData = require('./helpers/fakeData.js');
+const fakeData = require('./generate-fake-data.js');
 
 let app = require('express')();
 let http = require('http').Server(app);
