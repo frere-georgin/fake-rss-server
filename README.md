@@ -20,6 +20,7 @@ Ok, the serveur is launched, now you can
 ### To do
 
 - Make some tests
+- Make the fake data generation better
 - Add a html page with a head meta link for rss discovery
 
 - Optional : Make a general navigation, some new fake pages and their associated rss 
