@@ -7,7 +7,7 @@ It's a fake news website and rss feed.
 
 ### Install & launch
 
-'npm install; npm run nodemon'
+`npm install && npm run nodemon`
 
 Ok, the serveur is launched, now you can
 
